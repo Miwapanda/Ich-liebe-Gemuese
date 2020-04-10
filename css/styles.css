@@ -1,0 +1,27 @@
+/*Tag***************/
+h1 {
+  color: red;
+  font-size: 100px;
+}
+
+/*class*****************/
+.brocoli {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+}
+
+.brocoli:hover {
+  background-color: gold;
+}
+
+.bacon {
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+}
+
+/*ID*********/
+#title {
+  color: blue;
+}
